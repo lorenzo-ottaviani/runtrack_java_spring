@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: jour1
+
+  profiles:
+    active: dev
+
+greeting:
+  message: Vous explorez un projet Spring Boot !
